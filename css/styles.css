@@ -1,0 +1,17 @@
+#homeCarousel .carousel-item-inner {
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+}
+body {
+    background-color: #1d2d44;
+}
+.navbar {
+    background-color: #e3d5ca;
+}
+p {
+    color:#FFF
+}
+footer p {
+    font-size:0.9rem;
+}
